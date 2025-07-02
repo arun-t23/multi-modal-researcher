@@ -20,7 +20,7 @@ This project is a simple research and podcast generation workflow that uses Lang
 
 1. **Clone and navigate to the project**:
 ```bash
-git clone https://github.com/langchain-ai/multi-modal-researcher
+git clone https://github.com/arun-t23/multi-modal-researcher.git
 cd mutli-modal-researcher
 ```
 
@@ -59,16 +59,16 @@ LangGraph will open in your browser.
 5. Pass a `topic` and optionally a `video_url`.
 
 Example:
-* `topic`: Give me an overview of the idea that LLMs are like a new kind of operating system.
-* `video_url`: https://youtu.be/LCEmiRjPEtQ?si=raeMN2Roy5pESNG2
+* `topic`: What are Satya Nadella’s key insights about how AI is transforming knowledge work, energy use, and the future of app development, based on his 2025 AI Startup School interview
+* `video_url`: https://www.youtube.com/watch?v=AUUZuzVHKdo
 
-<img width="1604" alt="Screenshot 2025-06-24 at 5 13 31 PM" src="https://github.com/user-attachments/assets/6407e802-8932-4cfb-bdf9-5af96050ee1f" />
+<img width="100%" alt="AI Output Screenshot" src="./assets/screenshot.png" />
 
 Result:
 
-[🔍 See the example report](./example/report/karpathy_os.md)
+[🔍 See the example report](./example/report/nadella_ai_report.md)
 
-[▶️ Download the example podcast](./example/audio/karpathy_os.wav)
+[▶️ Download the example podcast](./example/audio/nadella_ai.wav)
 
 ## Architecture
 
