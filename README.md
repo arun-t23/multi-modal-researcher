@@ -66,7 +66,7 @@ Example:
 
 Result:
 
-[🔍 See the example report](./example/report/nadella_ai_report.md)
+
 
 [▶️ Download the example podcast](./example/audio/nadella_ai.wav)
 
