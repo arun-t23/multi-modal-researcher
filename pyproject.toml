@@ -3,7 +3,7 @@ name = "mutli-modal-researcher"
 version = "0.0.1"
 description = "Multi-modal researcher with Gemini"
 authors = [
-    { name = "Lance Martin", email = "lance@langchain.dev" },
+    { name = "Arun", email = "" },
 ]
 readme = "README.md"
 license = { text = "MIT" }
